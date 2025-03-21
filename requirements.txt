@@ -1,0 +1,7 @@
+flask==2.0.1
+numpy==1.23.5
+torch==2.0.1
+python-dotenv==1.0.0
+Werkzeug==2.0.1
+openai-whisper==20231117
+groq==0.3.0 
