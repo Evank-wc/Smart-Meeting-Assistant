@@ -21,7 +21,7 @@ A web application that transcribes audio files and generates meeting minutes usi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-meeting-assistant.git
+git clone https://github.com/Evank-wc/smart-meeting-assistant.git
 cd smart-meeting-assistant
 ```
 
