@@ -1,6 +1,6 @@
 # Smart Meeting Assistant
 
-A web application that transcribes audio files and generates meeting minutes using AI. Built with Flask and Whisper.
+A web application that transcribes audio files and generates meeting minutes using AI. Built with Flask and Whisper. Developed using Cursor.
 
 ## Features
 
@@ -74,6 +74,6 @@ python app.py
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contributing
+## Notes
 
-Contributions are welcome! Please feel free to submit a Pull Request. 
+Developed for personal use and learning purposes. 
